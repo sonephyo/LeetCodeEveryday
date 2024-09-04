@@ -18,3 +18,4 @@ Day15: Ordered Set <br/>
 Day16: No Progress <br/>
 Day 17: No Progress <br/>
 Day 18: PrefixSum <br/>
+Day 19: Two Pointers <br/>
