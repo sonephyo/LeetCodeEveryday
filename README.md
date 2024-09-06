@@ -18,5 +18,6 @@ Day15: Ordered Set <br/>
 Day16: No Progress <br/>
 Day 17: No Progress <br/>
 Day 18: PrefixSum <br/>
-Day 19: Two Pointers <br/>
-Day 20: Fast and Slow Pointers <br/>
+Day 19: Two Pointers (Two Problems) <br/>
+Day 20: Fast and Slow Pointers (Two Problems) <br/>
+Day 21: Sliding Window (Two Problems) <br/>
