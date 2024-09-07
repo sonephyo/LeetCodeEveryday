@@ -21,3 +21,4 @@ Day 18: PrefixSum <br/>
 Day 19: Two Pointers (Two Problems) <br/>
 Day 20: Fast and Slow Pointers (Two Problems) <br/>
 Day 21: Sliding Window (Two Problems) <br/>
+Day 22: Merge Intervals (One Review and One New) <br/>
