@@ -25,3 +25,4 @@ Day 22: Merge Intervals (One Review and One New) <br/>
 Day 23: Cyclic Sort (Two Reviews and One New) <br/>
 Day 24: In-place reversal of a linked list <br/>
 Day 25: Stack <br/>
+Day 26: Monotonic Stack (One Review and One New) <br/>
