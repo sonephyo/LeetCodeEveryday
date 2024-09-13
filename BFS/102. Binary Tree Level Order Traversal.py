@@ -23,6 +23,7 @@ class Solution:
                 if currentNode.right:
                     queue.append(currentNode.right)
             result.append(currentLevel)
+            
 
         return result
 
