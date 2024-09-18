@@ -33,3 +33,10 @@ Day 29: Hackaton Day <br/>
 Day 30: Hackaton Day <br/>
 Day 31: DFS (One Review)<br/>
 Day 32: Graph (One Review) <br/>
+Day 33: Matrix Traversal (One Review and One Problem) <br/>
+
+| Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
+| -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
+| 695              | Max Area of Island               | Medium            | Traverse through the matrix by modifying it if you have already encoutered and keep track. Recursion will stop while looping       |
+
+
