@@ -34,6 +34,7 @@ Day 30: Hackaton Day <br/>
 Day 31: DFS (One Review)<br/>
 Day 32: Graph (One Review) <br/>
 Day 33: Matrix Traversal (One Review and One Problem) <br/>
+Day 34: Heap (One Review)<br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
