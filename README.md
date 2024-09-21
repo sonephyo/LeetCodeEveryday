@@ -35,9 +35,11 @@ Day 31: DFS (One Review)<br/>
 Day 32: Graph (One Review) <br/>
 Day 33: Matrix Traversal (One Review and One Problem) <br/>
 Day 34: Heap (One Review)<br/>
+Day 35: HashMap <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
 | 695              | Max Area of Island               | Medium            | Traverse through the matrix by modifying it if you have already encoutered and keep track. Recursion will stop while looping       |
+| 26              | Remove Duplicates from Sorted Array               | Easy            | Important to think what to use when the array is ordered      |
 
 
