@@ -38,12 +38,15 @@ Day 34: Heap (One Review)<br/>
 Day 35: HashMap <br/>
 Day 36: Two Pointers and HackerRank Assessment <br/>
 Day 37: Subsets <br/>
+Day 38: ModifiedBinarySearch <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
 | 695              | Max Area of Island               | Medium            | Traverse through the matrix by modifying it if you have already encoutered and keep track. Recursion will stop while looping       |
 | 26              | Remove Duplicates from Sorted Array               | Easy            | Important to think what to use when the array is ordered      |
 | 90              | Subsets II              | Medium            |       |
+| -              | Ceiling of a Number             | Medium            |  Binary Search but modifying in a way that fits the need of the problem specification     |
+
 
 
 
