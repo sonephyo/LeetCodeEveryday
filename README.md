@@ -39,6 +39,7 @@ Day 35: HashMap <br/>
 Day 36: Two Pointers and HackerRank Assessment <br/>
 Day 37: Subsets <br/>
 Day 38: ModifiedBinarySearch <br/>
+Day 39: Bit Manipulation <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
