@@ -40,6 +40,7 @@ Day 36: Two Pointers and HackerRank Assessment <br/>
 Day 37: Subsets <br/>
 Day 38: ModifiedBinarySearch <br/>
 Day 39: Bit Manipulation <br/>
+Day 40: Top K Elements <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
