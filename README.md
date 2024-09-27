@@ -41,6 +41,7 @@ Day 37: Subsets <br/>
 Day 38: ModifiedBinarySearch <br/>
 Day 39: Bit Manipulation <br/>
 Day 40: Top K Elements <br/>
+Day 41: Dictionaries in Python <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
