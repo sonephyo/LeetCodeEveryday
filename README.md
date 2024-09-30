@@ -43,6 +43,7 @@ Day 39: Bit Manipulation <br/>
 Day 40: Top K Elements <br/>
 Day 41: Dictionaries in Python <br/>
 Day 42: Using Python Dictonaries in Problems <br/>
+Day 43: K Way Merge (One Review and One Problem) <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
@@ -50,6 +51,8 @@ Day 42: Using Python Dictonaries in Problems <br/>
 | 26              | Remove Duplicates from Sorted Array               | Easy            | Important to think what to use when the array is ordered      |
 | 90              | Subsets II              | Medium            |       |
 | -              | Ceiling of a Number             | Medium            |  Binary Search but modifying in a way that fits the need of the problem specification     |
+|   378          | Kth Smallest Element in a Sorted Matrix              | Medium            |  See the pattern but don't forget the use cases of data structure     |
+
 
 
 
