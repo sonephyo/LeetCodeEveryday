@@ -44,6 +44,7 @@ Day 40: Top K Elements <br/>
 Day 41: Dictionaries in Python <br/>
 Day 42: Using Python Dictonaries in Problems <br/>
 Day 43: K Way Merge (One Review and One Problem) <br/>
+Day 44: Greedy Algorithm <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
@@ -52,6 +53,8 @@ Day 43: K Way Merge (One Review and One Problem) <br/>
 | 90              | Subsets II              | Medium            |       |
 | -              | Ceiling of a Number             | Medium            |  Binary Search but modifying in a way that fits the need of the problem specification     |
 |   378          | Kth Smallest Element in a Sorted Matrix              | Medium            |  See the pattern but don't forget the use cases of data structure     |
+|   646          | Maximum Length of Pair Chain             | Medium            |  When to apply Greedy Algorithm - when local optimal solution leads to local maximum solution     |
+
 
 
 
