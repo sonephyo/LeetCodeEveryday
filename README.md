@@ -45,6 +45,7 @@ Day 41: Dictionaries in Python <br/>
 Day 42: Using Python Dictonaries in Problems <br/>
 Day 43: K Way Merge (One Review and One Problem) <br/>
 Day 44: Greedy Algorithm <br/>
+Day 45: Learning concept of backtracking <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
