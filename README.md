@@ -49,6 +49,7 @@ Day 45: Learning concept of backtracking <br/>
 Day 46: Larning Stacks and Queues (CodePath)<br/>
 Day 47: CodePath Stacks and Queues <br/>
 Day 48: Coding Assessment <br/>
+Day 49: Backtracking <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
@@ -58,6 +59,8 @@ Day 48: Coding Assessment <br/>
 | -              | Ceiling of a Number             | Medium            |  Binary Search but modifying in a way that fits the need of the problem specification     |
 |   378          | Kth Smallest Element in a Sorted Matrix              | Medium            |  See the pattern but don't forget the use cases of data structure     |
 |   646          | Maximum Length of Pair Chain             | Medium            |  When to apply Greedy Algorithm - when local optimal solution leads to local maximum solution     |
+|   46          | Permutations           | Medium            |  Think in trees branches |
+
 
 
 
