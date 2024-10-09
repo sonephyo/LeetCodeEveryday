@@ -50,6 +50,7 @@ Day 46: Larning Stacks and Queues (CodePath)<br/>
 Day 47: CodePath Stacks and Queues <br/>
 Day 48: Coding Assessment <br/>
 Day 49: Backtracking <br/>
+Day 50: - <br/>
 
 | Problem Number | Problem Title                      | Difficulty Level | Problem Solution Note                    |
 | -------------- | ---------------------------------- | ---------------- | ---------------------------------------- |
